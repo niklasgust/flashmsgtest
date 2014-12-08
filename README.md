@@ -1,3 +1,6 @@
+
+https://travis-ci.org/niklasgust/flashmsgtest.svg?branch=master
+
 Installation
 
 1) Download the ANAX-MVC framework (only 669,5 files). 
