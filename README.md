@@ -1,6 +1,18 @@
 [![Build Status](https://travis-ci.org/niklasgust/flashmsgtest.svg?branch=master)](https://travis-ci.org/niklasgust/flashmsgtest)
 
 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/niklasgust/flashmsgtest/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/niklasgust/flashmsgtest/?branch=master)
+
+
+
+[![Code Coverage](https://scrutinizer-ci.com/g/niklasgust/flashmsgtest/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/niklasgust/flashmsgtest/?branch=master)
+
+
+[![Build Status](https://scrutinizer-ci.com/g/niklasgust/flashmsgtest/badges/build.png?b=master)](https://scrutinizer-ci.com/g/niklasgust/flashmsgtest/build-status/master)
+
+
+
+
 Installation
 
 1) Download the ANAX-MVC framework (only 669,5 files). 
