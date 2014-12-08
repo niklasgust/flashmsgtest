@@ -27,4 +27,4 @@ return $flash;
 });
 
 
-4) Call a friend for more help
+4) Call a friend for more help.
