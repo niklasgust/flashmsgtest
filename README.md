@@ -1,4 +1,4 @@
-[Travis Build image](https://travis-ci.org/niklasgust/flashmsgtest.svg?branch=master)
+[![Build Status](https://travis-ci.org/niklasgust/flashmsgtest.svg?branch=master)](https://travis-ci.org/niklasgust/flashmsgtest)
 
 
 Installation
