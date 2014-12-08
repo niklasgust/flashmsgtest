@@ -1,5 +1,5 @@
+[](https://travis-ci.org/niklasgust/flashmsgtest.svg?branch=master)
 
-https://travis-ci.org/niklasgust/flashmsgtest.svg?branch=master
 
 Installation
 
